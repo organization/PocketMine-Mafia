@@ -3,9 +3,9 @@
 namespace Mohi\MohiPia\api;
 
 class APILoader {
-	public $economyAPI;
+	public $moneyAPI;
 	public function __construct() {
-		$this->economyAPI = new EconomyAPI();
+		$this->moneyAPI = new MyMoneyAPI();
 	}
 }
 

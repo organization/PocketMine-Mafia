@@ -2,13 +2,13 @@
 
 namespace Mohi\Mohipia\api;
 
-use onebone\economyapi\EconomyAPI;
+use Mohi\MyMoney\MyMoney;
 use pocketmine\Server;
 
-class EconomyAPI {
+class MyMoneyAPI {
 	private $plugin;
 	public function __construct() {
-		$this->plugin = Server::getInstance()->getPluginManager()->getPlugin("EconomyAPI");
+		$this->plugin = Server::getInstance()->getPluginManager()->getPlugin("MyMoney");
 	}
 }
 
