@@ -1,4 +1,4 @@
-# PocketMine-Mafia
+# Nukkit-Mafia
 
          __  ___      __    _       _                                      
         /  |/  /___  / /_  (_)___  (_)___ _                               
@@ -12,4 +12,4 @@
                                         /____/                            
 
 
-Play Mafia Game on PocketMine Server!
+Play Mafia Game on Nukkit Server!
